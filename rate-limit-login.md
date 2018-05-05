@@ -11,10 +11,10 @@ Login functionality can be brute forced  due to lack of captcha or rate limit.
 
 ## Steps to Reproduce
 
-1/ Visit `https://xxx.xxxxxxxxxxxx.xxx`
-2/ Enter bad credentials
-3/ Intercept the request with a proxy tool like Burp Suite
-4/ Replay the request, again and again
+1/ Visit `https://xxx.xxxxxxxxxxxx.xxx`  
+2/ Enter bad credentials  
+3/ Intercept the request with a proxy tool like Burp Suite  
+4/ Replay the request, again and again  
 
 
 ## PoC

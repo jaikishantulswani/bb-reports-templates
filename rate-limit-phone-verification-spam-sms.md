@@ -6,7 +6,7 @@ Hi,
 
 ## Description
 
-The functionnality "Phone verification" miss a human test, a captcha or rate limit. 
+The functionnality "Phone verification" miss a human test, a captcha or rate limit.  
 Vulnerable url: http://xxx.xxxxxxxxxxxx.xxx/...........
 
 

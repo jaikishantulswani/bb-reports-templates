@@ -48,10 +48,10 @@ Check the HTML file in copy, links number 2 work perfect for me on Windows 7, In
 
 ## See also
 
-https://www.owasp.org/index.php/Reflected_File_Download
-https://drive.google.com/file/d/0B0KLoHg_gR_XQnV4RVhlNl96MHM/view
-https://www.davidsopas.com/acunetix-got-rfded/
-https://www.trustwave.com/Resources/SpiderLabs-Blog/Reflected-File-Download---A-New-Web-Attack-Vector/
+https://www.owasp.org/index.php/Reflected_File_Download  
+https://drive.google.com/file/d/0B0KLoHg_gR_XQnV4RVhlNl96MHM/view  
+https://www.davidsopas.com/acunetix-got-rfded/  
+https://www.trustwave.com/Resources/SpiderLabs-Blog/Reflected-File-Download---A-New-Web-Attack-Vector/  
 
 
 

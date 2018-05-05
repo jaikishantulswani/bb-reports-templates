@@ -14,11 +14,11 @@ When a user close his browser and reopen it later (after hours) he is still conn
 
 ## Step to reproduce
 
-1/ log in to your xxx account
-2/ close your browser
-3/ wait some hours
-4/ reopen your browser
-5/ go to https://xxx.xxxxxxxxxxxx.xxx, you are already connected
+1/ log in to your xxx account  
+2/ close your browser  
+3/ wait some hours  
+4/ reopen your browser  
+5/ go to https://xxx.xxxxxxxxxxxx.xxx, you are already connected  
 
 
 ## PoC
@@ -42,8 +42,8 @@ Destroy session datas on the server (db, files, cache...) after a certain amount
 
 ## See also
 
-https://www.owasp.org/index.php/Session_Management_Cheat_Sheet
-https://www.owasp.org/index.php/Test_Session_Timeout_(OTG-SESS-007)
+https://www.owasp.org/index.php/Session_Management_Cheat_Sheet  
+https://www.owasp.org/index.php/Test_Session_Timeout_(OTG-SESS-007)  
 
 
 
