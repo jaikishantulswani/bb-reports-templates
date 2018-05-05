@@ -10,17 +10,17 @@ Password reset functionality can be brute forced  due to lack of captcha or rate
 
 Email found:
 "xxxxxxxxxxxxxxx"
-
+  
 Email not found:
 "xxxxxxxxxxxxxxx"
 
 
 ## Steps to Reproduce
 
-1/ Visit `https://xxx.xxxxxxxxxxxx.xxx`
-2/ Enter an email
-3/ Intercept the request with a proxy tool like Burp Suite
-4/ Replay the request, again and again
+1/ Visit `https://xxx.xxxxxxxxxxxx.xxx`  
+2/ Enter an email  
+3/ Intercept the request with a proxy tool like Burp Suite  
+4/ Replay the request, again and again  
 
 
 ## PoC
