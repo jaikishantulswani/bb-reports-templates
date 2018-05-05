@@ -25,14 +25,14 @@ Don't waste your time trying to play the video , it doesn't work :)
 
 ## Step to reproduce
 
-1/ Download the attached file `gen_avi.py`
-2/ Execute the following command `python3 gen_avi.py /etc/passwd lfi.avi.mp4`
-3/ Create a video media in your account here:
-https://xxx.xxxxxxxxxxxx.xxx
-4/ Upload the video generated with the media uploader at the following url
-https://xxx.xxxxxxxxxxxx.xxx
-5/ Wait for a minute, the system is generating the thumbnail and probably encoding stuff
-6/ Refresh your media list
+1/ Download the attached file `gen_avi.py`  
+2/ Execute the following command `python3 gen_avi.py /etc/passwd lfi.avi.mp4`  
+3/ Create a video media in your account here:  
+https://xxx.xxxxxxxxxxxx.xxx  
+4/ Upload the video generated with the media uploader at the following url  
+https://xxx.xxxxxxxxxxxx.xxx  
+5/ Wait for a minute, the system is generating the thumbnail and probably encoding stuff  
+6/ Refresh your media list  
 
 The content of the local file will be displayed in the thumbnail and the bigger format of the video.
 
@@ -49,9 +49,9 @@ Update your FFmpeg package or recompile the package and disable HLS.
 
 ## See also
 
-https://en.wikipedia.org/wiki/File_inclusion_vulnerability
-http://news.softpedia.com/news/zero-day-ffmpeg-vulnerability-lets-anyone-steal-files-from-remote-machines-498880.shtml
-https://docs.google.com/presentation/d/1yqWy_aE3dQNXAhW8kxMxRqtP7qMHaIfMzUDpEqFneos/edit
+https://en.wikipedia.org/wiki/File_inclusion_vulnerability  
+http://news.softpedia.com/news/zero-day-ffmpeg-vulnerability-lets-anyone-steal-files-from-remote-machines-498880.shtml  
+https://docs.google.com/presentation/d/1yqWy_aE3dQNXAhW8kxMxRqtP7qMHaIfMzUDpEqFneos/edit  
 
 
 __Special thanks to Neex and Cdl for their public disclosure__
