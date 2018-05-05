@@ -38,9 +38,9 @@ Remove the cname entry or claim the subdomain `YYY` on XXX.
 
 ## See also
 
-https://labs.detectify.com/2014/10/21/hostile-subdomain-takeover-using-herokugithubdesk-more/
-https://medium.com/@atom/subdomain-takeover-through-external-services-f0f7ee2b93bd#.hglqnm2gg
-http://yassineaboukir.com/blog/neglected-dns-records-exploited-to-takeover-subdomains/
+https://labs.detectify.com/2014/10/21/hostile-subdomain-takeover-using-herokugithubdesk-more/  
+https://medium.com/@ajdumanhug/subdomain-takeover-through-external-services-f0f7ee2b93bd  
+http://yassineaboukir.com/blog/neglected-dns-records-exploited-to-takeover-subdomains/  
 
 
 ## Additional note
