@@ -14,9 +14,9 @@ I found a Server Side Request Forgery in `xxx.xxxxxxxxxxxx.xxx` in the xxxxxxx f
 
 ## Step to reproduce
 
-1/
-2/
-3/
+1/  
+2/  
+3/  
 
 
 ## PoC
@@ -39,7 +39,7 @@ I found a Server Side Request Forgery in `xxx.xxxxxxxxxxxx.xxx` in the xxxxxxx f
 
 ## See also
 
-https://www.owasp.org/index.php/Server_Side_Request_Forgery
+https://www.owasp.org/index.php/Server_Side_Request_Forgery  
 https://medium.com/@auxy233/the-design-and-implementation-of-ssrf-attack-framework-550e9fda16ea
 
 

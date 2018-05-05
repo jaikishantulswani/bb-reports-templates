@@ -4,13 +4,13 @@ SQL injection in xxx.xxxxxxxxxxxx.xxx
 
 Hi,
 
-I found a SQL Injection at the following url:
+I found a SQL Injection at the following url:  
 `http://xxx.xxxxxxxxxxxx.xxx/.................`
 
 
 ## PoC
 
-Visit the following url:
+Visit the following url:  
 `http://xxx.xxxxxxxxxxxx.xxx/...........`
 {}
 
