@@ -42,9 +42,9 @@ Update the system to the last version of ImageMagick (or at least a patched vers
 
 ## See also
 
-https://imagetragick.com/
-https://blog.sucuri.net/2016/05/imagemagick-remote-command-execution-vulnerability.html
-https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-3714
+https://imagetragick.com/  
+https://blog.sucuri.net/2016/05/imagemagick-remote-command-execution-vulnerability.html  
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-3714  
 
 
 
