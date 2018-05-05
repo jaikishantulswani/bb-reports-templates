@@ -21,7 +21,7 @@ The parameter seems to miss sanitization, some urls don't work but some other do
 ## Steps to Reproduce
 
 Visit the following url:
-`https://xxx.xxxxxxxxxxxx.xxx/.....`
+`https://xxx.xxxxxxxxxxxx.xxx/.....`  
 This will redirect you to `http://google.com`
 
 **Browsers Verified In:**
