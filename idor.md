@@ -14,9 +14,9 @@ Because of that, another user could perform the action even if he doesn't own th
 
 ## Step to reproduce
 
-1/ 
-2/ 
-3/ 
+1/   
+2/   
+3/   
 
 
 ## PoC
@@ -26,7 +26,7 @@ Because of that, another user could perform the action even if he doesn't own th
 
 ## Risk
 
-- data compromise
+Data compromise.
 
 
 ## Remediation
