@@ -14,7 +14,7 @@ Drupal before 7.58, 8.x before 8.3.9, 8.4.x before 8.4.6, and 8.5.x before 8.5.1
 
 ## PoC
 
-For the purpose of the test, I used the following script:
+For the purpose of the test, I used the following script:  
 https://github.com/dreadlocked/Drupalgeddon2
 
 {}
@@ -32,7 +32,7 @@ Update your Drupal install to the last version.
 
 ## See also
 
-https://www.drupal.org/sa-core-2018-002
+https://www.drupal.org/sa-core-2018-002  
 https://groups.drupal.org/security/faq-2018-002
 
 
