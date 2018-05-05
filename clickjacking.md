@@ -12,7 +12,7 @@ The website http://xxx.xxxxxxxxxxxx.xxx is vulnerable to clickjacking. I won't c
 {}
 
 
-## Risk
+## Risk
 
 An attacker could embed your website in an iframe and by tricking the UI, the user himself could unintentionally perform dangerous actions.
 You may think that kind of attack is not so dangerous but combined with other vulnerabilities, it could be deadly.
