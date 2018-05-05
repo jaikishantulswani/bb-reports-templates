@@ -8,13 +8,13 @@ I found a reflected XSS on `xxx.xxxxxxxxxxxx.xxx`.
 
 ## Description
 
-The parameter `yyy` is missing sanitization in the following url:
+The parameter `yyy` is missing sanitization in the following url:  
 `http://xxx.xxxxxxxxxxxx.xxx/............`
 
-Payload
+Payload:  
 `.......`
 
-Which render the following code:
+Which render the following code:  
 `......`
 
 

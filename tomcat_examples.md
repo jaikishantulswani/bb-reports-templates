@@ -6,10 +6,10 @@ Cookies and session injection
 Hi,
 
 
-On the server xxx.xxx.xxx.xxx that host xxx.xxxxxxxxxxxx.xxx, Tomcat examples have been installed  and they are reachable by anybody at the following url:
+On the server xxx.xxx.xxx.xxx that host xxx.xxxxxxxxxxxx.xxx, Tomcat examples have been installed  and they are reachable by anybody at the following url:  
 https://xxx.xxxxxxxxxxxx.xxx/examples/
 
-One of the example allows to create cookies and one other allows to inject datas in session.
+One of the example allows to create cookies and one other allows to inject datas in session.  
 If cookie injection is not a big deal since they can be created in many other ways, session injection can be dangerous.
 
 
