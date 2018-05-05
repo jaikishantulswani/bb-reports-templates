@@ -20,13 +20,13 @@ You may think that kind of attack is not so dangerous but combined with other vu
 
 ## Remediation
 
-- set a correct value to the HTTP header `X-Frame-Options`
+- set a correct value to the HTTP header `X-Frame-Options`  
 https://developer.mozilla.org/fr/docs/HTTP/Headers/Content-Security-Policy
 
-- set a correct value to the HTTP header `Content-Security-Policy`
+- set a correct value to the HTTP header `Content-Security-Policy`  
 https://developer.mozilla.org/fr/docs/HTTP/Headers/X-Frame-Options
 
-- implement a frame breakder
+- implement a frame breakder  
 https://www.thesitewizard.com/archive/framebreak.shtml
 
 

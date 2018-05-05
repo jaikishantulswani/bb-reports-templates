@@ -13,15 +13,15 @@ xxx.xxxxxxxxxxx.xxx
 
 ## Description
 
-Since the header `Access-Control-Allow-Credentials` is set to `true` and since the header `Access-Control-Allow-Origin` in the HTTP response reflects the header `Origin` in the HTTP request, it's possible for a malicious page to trick it to allow this remote website to access customers datas and perform unauthorized actions.
+Since the header `Access-Control-Allow-Credentials` is set to `true` and since the header `Access-Control-Allow-Origin` in the HTTP response reflects the header `Origin` in the HTTP request, it's possible for a malicious page to trick it to allow this remote website to access customers datas and perform unauthorized actions.  
 All actions available in the API to be exact like xxxxxxxxxxxxxxxxxxxxxx and so on, a full CRUD access to the account.
 
 
 ## Steps to Reproduce
 
 1/ login your account here:
-`https://xxx.xxxxxxxxxxxxxx.xxx`
-2/ add something in your cart, like a domain
+`https://xxx.xxxxxxxxxxxxxx.xxx`  
+2/ add something in your cart, like a domain  
 3/ Open a new tab in your browser and visit this url:
 `http://poc.xxxxxxxxxxxx.xxx/poc/xxxxxxxxxxx.html`
 
@@ -56,9 +56,9 @@ cors();
 
 ## See also
 
-https://www.owasp.org/index.php/CORS_OriginHeaderScrutiny
-http://blog.portswigger.net/2016/10/exploiting-cors-misconfigurations-for.html
-https://www.cynet.com/wp-content/uploads/2016/12/Blog-Post-BugSec-Cynet-Facebook-Originull.pdf
+https://www.owasp.org/index.php/CORS_OriginHeaderScrutiny  
+http://blog.portswigger.net/2016/10/exploiting-cors-misconfigurations-for.html  
+https://www.cynet.com/wp-content/uploads/2016/12/Blog-Post-BugSec-Cynet-Facebook-Originull.pdf  
 
 
 
