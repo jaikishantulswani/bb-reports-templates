@@ -23,7 +23,7 @@ For that I could use the classic way or perform a reset password if the hacker a
 Invalidate all sessions after password successfully change or at least all sessions that are not responsible of the action.
 
 
-## See also
+## See also
 
 https://www.owasp.org/index.php/Forgot_Password_Cheat_Sheet#Other_Considerations
 
